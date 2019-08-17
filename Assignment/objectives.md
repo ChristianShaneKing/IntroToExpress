@@ -4,7 +4,7 @@
 2. create a package.json using 'npm init' and add express as a dependency
 3. in your main app.js file add 3 routes
 
-Visiting "/" should print "Hit there, welcome to my assignment!"
+Visiting "/" should print "Hi there, welcome to my assignment!"
 ========================================================
 Visiting "/speak/pig" should print "The pig says 'Oink'"
 Visiting "/speak/dog" should print "The dog says 'Woof'"
